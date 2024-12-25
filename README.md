@@ -33,7 +33,7 @@
 <table><tr><td valign="top" width="25%">
 
 ### Languages
-<a href="https://github.com/GabrielBJ">
+<a href="https://github.com/quantum-gabo">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,matlab,wolframmatematica&perline=4" /> 
 </div>
@@ -52,7 +52,7 @@
  </td><td valign="top" width="25%"> -->
 
 ### Others Tools
-<a href="https://github.com/GabrielBJ">
+<a href="https://github.com/quantum-gabo">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,latex,neovim,vscodeqt&perline=4" /> 
 </div>
@@ -72,22 +72,22 @@
 
  ## Github Stats:
 <p align="center">
-    <a href="https://github.com/GabrielBJ">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielBJ&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielBJ&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/quantum-gabo">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantum-gabo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quantum-gabo&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/GabrielBJ">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielBJ&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=quantum-gabo&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
 </p>
 
 
  <p align="center">
-   <a href="https://github.com/GabrielBJ"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBJ&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   <a href="https://github.com/quantum-gabo"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-gabo&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
 
@@ -95,7 +95,7 @@
 
 <div id="header" align="center">
   
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GabrielBJ" alt="GabrielBJ" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantum-gabo" alt="quantum-gabo" /></a> </p>
   
 <!--  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
